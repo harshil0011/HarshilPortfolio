@@ -323,10 +323,11 @@ html {
 
 body {
     font-family: Roboto Mono, Helvetica, Arial, sans-serif;
-    font-size: 11px;
+    font-size: 16px;
     line-height: 1.78;
     color: #000;
     background-color: #fff
+
 }
 
 button,
@@ -5261,7 +5262,7 @@ button.close {
     border-radius: 10px;
     cursor: pointer;
     background-color: #000\9;
-    background-color: transparent
+    background-color: transparent; 
 }
 
 .carousel-indicators .active {
